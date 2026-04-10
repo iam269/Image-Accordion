@@ -9,7 +9,7 @@ An interactive image accordion showcasing beautiful dog photos! 🐶 Click on an
 - Easy to customize
 
 ## Live Demo 🌐
-Check out the live demo: [https://iam269.github.io/Image-Accordion/](https://iam269.github.io/Image-Accordion/)
+Check out the live demo: [https://itsiamdev.github.io/Image-Accordion/](https://itsiamdev.github.io/Image-Accordion/)
 
 ## Technologies Used 🛠️
 - HTML5
